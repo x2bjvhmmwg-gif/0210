@@ -1,11 +1,5 @@
 # 02/10 수업 정리 (Docker · OAuth · Kafka 연계)
 
-## 📌 수업
-
-* Docker Compose를 이용해 **여러 서비스(Kafka, Redis, DB, Backend, Frontend)** 를 하나의 네트워크로 구성
-* FastAPI 기반 백엔드에서 **OAuth 2.0 (카카오 로그인)** 흐름을 이해하고 구현
-* Kafka를 이용해 **서비스 간 직접 통신을 제거한 이벤트 기반 구조**를 이해
-
 ---
 
 ## 🧱 전체 아키텍처 개요
